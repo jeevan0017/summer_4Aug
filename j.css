@@ -1,4 +1,10 @@
 <html>
 <head>
 <title>MY CV USING CSS</title>
-
+<style>
+body{
+	font-family:Arial,sans-serif;
+	background-color:grey;
+	margin:0;
+	padding:20px;
+}
